@@ -9,11 +9,9 @@
 
 ## 在线版本（语雀）
 
-[软件设计师复习思维导图 · 语雀 (yuque.com)](https://www.yuque.com/ybqdren/qow2l4/software_designer_knowledge_point)
+[大纲总览 ](https://www.yuque.com/ybqdren/qow2l4/software_designer_knowledge_point)
 
-
-
-
+[计算机基础](https://www.yuque.com/ybqdren/qow2l4/rb4vl4)
 
 ## XMind版本（离线）
 
